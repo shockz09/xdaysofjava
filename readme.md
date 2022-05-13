@@ -1,5 +1,5 @@
 ## Learning Java
 
-# In this repo i will share my notes and stuff on what i learn daily in Java
+## repo for keeping me motivated to learn java, i stopped it very early but issoke.
 
-# 🔥 les go, ok guys sorry lol , i have to stop this crazy shit till 12th of Match becuase of exams 😞
+
